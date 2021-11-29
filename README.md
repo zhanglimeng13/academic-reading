@@ -14,5 +14,5 @@ Multiple submissions per manuscript mean that the same author or different autho
 
 ### 3. Please try and share your project with us over links. (5pt)
 
-https://www.overleaf.com/read/qgtmhxbfppcg
+https://www.overleaf.com/read/qgtmhxbfppcg \\
 https://github.com/zhanglimeng13/academic-reading
